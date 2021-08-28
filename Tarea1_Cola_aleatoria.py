@@ -1,3 +1,6 @@
+# Marcelo Valenzuela Barrera
+# 20.774.817-K
+
 # Librerias necesarias
 import numpy as np
 import random
